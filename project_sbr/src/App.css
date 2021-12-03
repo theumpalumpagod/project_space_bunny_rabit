@@ -24,6 +24,13 @@
   color: white;
 }
 
+.mainP{
+  font-family: Inter;
+    font-weight: 200;
+    color: #edbcc4;
+    text-shadow: 1px 1px 1px black;
+}
+
 .App-link {
   color: #61dafb;
 }
